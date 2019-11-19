@@ -9,5 +9,6 @@ public class testGit {
 		System.out.println("我是测试git的java文件");
 		System.out.println("我是用来测试历史数据的");
 		System.out.println("我也是用来测试历史数据的");
+		System.out.println("我也是用来测试冲突的服务器修改");
 	}
 }
